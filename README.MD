@@ -17,5 +17,6 @@ Tech:
 
 ### Open source work
 - help debridge support DefiLlama, PR:
+
   [dimension-adapters](https://github.com/DefiLlama/dimension-adapters/pull/997)
   [bridges-server](https://github.com/DefiLlama/bridges-server/pull/82)
