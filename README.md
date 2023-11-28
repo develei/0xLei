@@ -4,16 +4,12 @@ Hi! I'm a Full-Stack engineer building [HiveLabs](https://twitter.com/HiveLabs_)
 ### [AcorssAlert](https://twitter.com/AcrossAlerts)
 A twitter bot that tweets Across Protocol bridge alters
 
-Tech:
-- Node.js
-- web3.js
+Tech: TypeScript, Node.js, web3.js
 
 ### [LIFIAlert](https://twitter.com/lifi_alerts)
 A twitter bot that tweets LI.FI Protocol bridge alters
 
-Tech:
-- Node.js
-- web3.js
+Tech: TypeScript, Node.js, web3.js
 
 ### Open source work
 - help [deBridge](https://debridge.finance/) support [DefiLlama](https://defillama.com/), PR: [dimension-adapters](https://github.com/DefiLlama/dimension-adapters/pull/997) [bridges-server](https://github.com/DefiLlama/bridges-server/pull/82)
