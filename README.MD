@@ -17,3 +17,8 @@ Tech:
 
 ### Open source work
 - help [deBridge](https://debridge.finance/) support [DefiLlama](https://defillama.com/), PR: [dimension-adapters](https://github.com/DefiLlama/dimension-adapters/pull/997) [bridges-server](https://github.com/DefiLlama/bridges-server/pull/82)
+
+## About HiveLabs
+HiveLabs is a developer team assisting protocols to present themselves comprehensively, like building bots for real-time monitoring of on-chain transactions and building dune’s dashboard and etc. 
+
+If you want a bot, contact [me](https://twitter.com/lei0xcc) or [zeck](https://twitter.com/zeckxyz)
