@@ -16,4 +16,4 @@ Tech:
 - web3.js
 
 ### Open source work
-- help debridge support DefiLlama, PR: [dimension-adapters](https://github.com/DefiLlama/dimension-adapters/pull/997) [bridges-server](https://github.com/DefiLlama/bridges-server/pull/82)
+- help [deBridge](https://debridge.finance/) support [DefiLlama](https://defillama.com/), PR: [dimension-adapters](https://github.com/DefiLlama/dimension-adapters/pull/997) [bridges-server](https://github.com/DefiLlama/bridges-server/pull/82)
